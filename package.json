@@ -1,0 +1,23 @@
+{
+  "name": "tic-tae-toe_command-line",
+  "version": "1.0.0",
+  "description": "",
+  "main": "tic-tae-toe.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/despinoz/tic-tae-toe_command-line.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/despinoz/tic-tae-toe_command-line/issues"
+  },
+  "homepage": "https://github.com/despinoz/tic-tae-toe_command-line#readme",
+  "dependencies": {
+    "prompt": "^1.0.0"
+  }
+}
